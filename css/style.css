@@ -17,5 +17,7 @@ footer{
     display: block;
     justify-content: center;
     padding: 40px 20px;
-    margin: 50px auto;
+    margin: 20px auto;
+    width:60%;
+    height: 80%;
 }
