@@ -3,11 +3,12 @@ h1{
     text-align:center;
     color: chocolate;
 }
-h4{
+h4, .croissant-info{
     display: block;
     justify-content:center;
     padding: 20px 150px;
     margin: 20px auto;
+    font-size: 20px;
 }
 body{
     background-color:lightgoldenrodyellow
