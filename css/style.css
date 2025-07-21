@@ -3,12 +3,24 @@ h1{
     text-align:center;
     color: chocolate;
 }
+h4{
+    display: block;
+    justify-content:center;
+    padding: 20px 150px;
+    margin: 20px auto;
+}
 body{
     background-color:lightgoldenrodyellow
 }
 button{
      margin: 10px 25px;
-}
+     background-color:gold;
+     color:darkolivegreen;
+     border-radius: 7px;
+     padding: 10px;
+     border-color: 1px brown;
+     font-size: 16px;
+    }
 footer{
     display: block;
     text-align: center;
@@ -16,8 +28,9 @@ footer{
 .criossant-photo{
     display: block;
     justify-content: center;
-    padding: 40px 20px;
+    padding: 20px 0;
     margin: 20px auto;
-    width:60%;
-    height: 80%;
+    width:700px;
+    height: 500px;
+    max-width:100%;
 }
