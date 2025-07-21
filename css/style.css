@@ -34,3 +34,12 @@ footer{
     height: 500px;
     max-width:100%;
 }
+.contact-info, .email-link{
+    display: block;
+    justify-content: center;
+    text-align: center;
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+}
