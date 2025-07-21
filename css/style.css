@@ -6,3 +6,16 @@ h1{
 body{
     background-color:lightgoldenrodyellow
 }
+button{
+     margin: 10px 25px;
+}
+footer{
+    display: block;
+    text-align: center;
+}
+.criossant-photo{
+    display: block;
+    justify-content: center;
+    padding: 40px 20px;
+    margin: 50px auto;
+}
